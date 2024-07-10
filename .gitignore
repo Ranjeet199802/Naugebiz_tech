@@ -1,0 +1,28 @@
+# Byte-compiled / optimized Python files
+*.pyc
+__pycache__/
+
+# Python environment
+env/
+.venv/
+venv/
+pip-log.txt
+
+# Django settings
+*.log
+*.pot
+*.pyc
+db.sqlite3
+local_settings.py
+
+# Media files (uploads)
+media/
+
+# Static files (collectstatic)
+staticfiles/
+
+# Secret keys
+.secret_key
+
+# Ignore IDE files (example for VS Code)
+.vscode/
